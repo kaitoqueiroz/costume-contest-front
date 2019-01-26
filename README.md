@@ -1,4 +1,13 @@
-# Costume Contest app
+# VueJs frontend for Costume Contest app
+
+* [Laravel Backend](https://github.com/kaitoqueiroz/costume-contest-back)
+
+## Technologies:
+
+* [Laravel](https://laravel.com/)
+* [Docker](https://www.docker.com/)
+* [JWT](https://jwt.io/)
+
 
 ## Project setup
 ```
