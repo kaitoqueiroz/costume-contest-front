@@ -4,9 +4,9 @@
 
 ## Technologies:
 
-* [Laravel](https://laravel.com/)
-* [Docker](https://www.docker.com/)
 * [JWT](https://jwt.io/)
+* [VueJs](https://vuejs.org/)
+* [Vuetify](https://vuetifyjs.com/)
 
 
 ## Project setup
